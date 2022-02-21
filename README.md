@@ -2,15 +2,7 @@
 A Responsive website related to importance of education for a brighter future
 
 
-![Screenshot (119)](https://user-images.githubusercontent.com/66054330/144722072-0ddb21ea-28e5-488c-9600-b783d3585989.png)
 
-
-
-
-![Screenshot (120)](https://user-images.githubusercontent.com/66054330/144722074-abeb7185-1de3-47e3-9af5-4e5fce123c87.png)
-
-
-
-
-
-![Screenshot (121)](https://user-images.githubusercontent.com/66054330/144722075-22a69918-2e9d-4f89-9947-86ffaf4a139c.png)
+![Screenshot (119)](https://user-images.githubusercontent.com/66054330/154960878-6b5a5a5d-15e5-4e90-8a8a-27852fb7661a.png)
+![Screenshot (120)](https://user-images.githubusercontent.com/66054330/154960881-2b8c806d-8fad-4096-bf67-2dd8afcf7e12.png)
+![Screenshot (121)](https://user-images.githubusercontent.com/66054330/154960899-e7273f68-fa5b-4f4e-82eb-720de1639081.png)
